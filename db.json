@@ -1,0 +1,16 @@
+{
+    "posts": [
+        {"id":1, "title": "JS", "body": "Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться. Lorem Ipsum используют потому, что "},
+        {"id":2, "title": "Python", "body": "Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться. Lorem Ipsum используют потому, что "},
+        {"id":3, "title": "Ruby", "body": "Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться. Lorem Ipsum используют потому, что "},
+        {"id":4, "title": "GoLang", "body": "Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться. Lorem Ipsum используют потому, что "},
+        {"id":5, "title": "Swift", "body": "Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться. Lorem Ipsum используют потому, что "}
+    ],
+    "about": {
+        "title":"Page about us",
+        "body": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable."
+    },
+    "people": [
+        {"id":1, "name":"Ivan", "job":"developer"}
+    ]
+}
